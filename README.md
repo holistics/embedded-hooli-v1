@@ -1,5 +1,7 @@
 # Holistics Embedded playground
 
+This project is stale. Please refer to: https://github.com/holistics/embedded-hooli
+
 ## Setup
 
 Make sure to install the dependencies:
